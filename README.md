@@ -1,5 +1,5 @@
 # ZipUtilityTaskInstaller
-An SSIS custom task for compressing files into ZIP format
+An SSIS custom task for compressing and decompressing files into ZIP format.
 # Zip Utility Task for SSIS
 **Version:** 1.0.0.0  
 **Publisher:** Clements Data Integration
